@@ -49,7 +49,7 @@ const PlaceOrder = () => {
             </div>
             <div onClick={()=>setMethod('instaPay')} className="flex items-center gap-3 border p-2 px-3 cursor-pointer">
               <p className={`min-w-3.5 h-3.5 border rounded-full ${method === 'instaPay' ? 'bg-green-400' : ''}`}></p>
-              <img src={assets.InstaPay_logo} alt="" className="h-8 mx-5" />
+              <img src={assets.instaPay_logo} alt="" className="h-8 mx-5" />
             </div>
             <div onClick={()=>setMethod('cod')} className="flex items-center gap-3 border p-2 px-3 cursor-pointer">
               <p className={`min-w-3.5 h-3.5 border rounded-full ${method === 'cod' ? 'bg-green-400' : ''}`}></p>
