@@ -71,7 +71,7 @@ import menu_icon from './menu_icon.png'
 import about_img from './about_img.png'
 import contact_img from './contact_img.png'
 import visa_logo from './visa_logo.png'
-import instaPay_logo from './instaPay_logo.png'
+import insta_pay_logo from './insta_pay_logo.png'
 import cross_icon from './cross_icon.png'
 
 export const assets = {
@@ -91,7 +91,7 @@ export const assets = {
     about_img,
     contact_img,
     visa_logo,
-    instaPay_logo,
+    insta_pay_logo,
     cross_icon,
 }
 
